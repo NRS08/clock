@@ -1,2 +1,2 @@
 # Analog Clock
-A basic analog clock made with HTML CSS AND JacaScript!
+A basic analog clock made with HTML CSS AND JavaScript!
